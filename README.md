@@ -1,6 +1,6 @@
 ## Olá, eu sou a Endi Oliveira!
 - 📚 Acadêmica de Tecnologia em Sistemas de Computação na UFF
-- 🔭 Estudante da Labenu | Dev Web Full Stack
+- 🔭 Estudando Desenvolvimento Web Full Stack na Labenu 
 - 😄 Pronome: ela/dela
 
 <div align="center">
