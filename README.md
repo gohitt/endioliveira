@@ -1,7 +1,7 @@
 ## Olá, eu sou a Endi Oliveira!
 - 📚 Acadêmica de Tecnologia em Sistemas de Computação na UFF
 - 🔭 Estudando Desenvolvimento Web Full Stack na Labenu 
-- Linguagens que estou e vou estudar no curso: HTML | CSS | React | Jest | Node JS | TypeScript | MySQL | AWS | Firebase 
+- 💻 Linguagens que estou e vou estudar no curso: HTML | CSS | React | Jest | Node JS | TypeScript | MySQL | AWS | Firebase 
 - 😄 Pronome: ela/dela
 
 <div align="center">
