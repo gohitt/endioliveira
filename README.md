@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=dd6387&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=dd6387&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Endi+Oliveira;I'm+22+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=dd6387&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Endi+Oliveira;Tenho+22+anos+;E+sou+do+Brasil;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
 
 ## Um pouco sobre mim... 
 - 📚 Acadêmica de Tecnologia em Sistemas de Computação na UFF
